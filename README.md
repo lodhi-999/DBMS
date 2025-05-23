@@ -17,6 +17,7 @@
 | [1338-queries-quality-and-percentage](https://github.com/lodhi-999/DBMS/tree/master/1338-queries-quality-and-percentage) |
 | [1390-average-selling-price](https://github.com/lodhi-999/DBMS/tree/master/1390-average-selling-price) |
 | [1773-percentage-of-users-attended-a-contest](https://github.com/lodhi-999/DBMS/tree/master/1773-percentage-of-users-attended-a-contest) |
+| [1877-find-followers-count](https://github.com/lodhi-999/DBMS/tree/master/1877-find-followers-count) |
 | [1908-recyclable-and-low-fat-products](https://github.com/lodhi-999/DBMS/tree/master/1908-recyclable-and-low-fat-products) |
 | [2087-confirmation-rate](https://github.com/lodhi-999/DBMS/tree/master/2087-confirmation-rate) |
 | [2495-number-of-unique-subjects-taught-by-each-teacher](https://github.com/lodhi-999/DBMS/tree/master/2495-number-of-unique-subjects-taught-by-each-teacher) |
