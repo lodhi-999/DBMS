@@ -6,6 +6,7 @@
 | ------- |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/lodhi-999/DBMS/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [0584-find-customer-referee](https://github.com/lodhi-999/DBMS/tree/master/0584-find-customer-referee) |
+| [0620-not-boring-movies](https://github.com/lodhi-999/DBMS/tree/master/0620-not-boring-movies) |
 | [1153-product-sales-analysis-i](https://github.com/lodhi-999/DBMS/tree/master/1153-product-sales-analysis-i) |
 | [1182-game-play-analysis-iv](https://github.com/lodhi-999/DBMS/tree/master/1182-game-play-analysis-iv) |
 | [1292-immediate-food-delivery-ii](https://github.com/lodhi-999/DBMS/tree/master/1292-immediate-food-delivery-ii) |
