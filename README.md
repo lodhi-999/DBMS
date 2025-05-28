@@ -25,5 +25,6 @@
 | [1877-find-followers-count](https://github.com/lodhi-999/DBMS/tree/master/1877-find-followers-count) |
 | [1908-recyclable-and-low-fat-products](https://github.com/lodhi-999/DBMS/tree/master/1908-recyclable-and-low-fat-products) |
 | [2087-confirmation-rate](https://github.com/lodhi-999/DBMS/tree/master/2087-confirmation-rate) |
+| [2127-employees-whose-manager-left-the-company](https://github.com/lodhi-999/DBMS/tree/master/2127-employees-whose-manager-left-the-company) |
 | [2495-number-of-unique-subjects-taught-by-each-teacher](https://github.com/lodhi-999/DBMS/tree/master/2495-number-of-unique-subjects-taught-by-each-teacher) |
 <!---LeetCode Topics End-->
