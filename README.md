@@ -21,6 +21,7 @@
 | [1327-last-person-to-fit-in-the-bus](https://github.com/lodhi-999/DBMS/tree/master/1327-last-person-to-fit-in-the-bus) |
 | [1338-queries-quality-and-percentage](https://github.com/lodhi-999/DBMS/tree/master/1338-queries-quality-and-percentage) |
 | [1390-average-selling-price](https://github.com/lodhi-999/DBMS/tree/master/1390-average-selling-price) |
+| [1452-restaurant-growth](https://github.com/lodhi-999/DBMS/tree/master/1452-restaurant-growth) |
 | [1773-percentage-of-users-attended-a-contest](https://github.com/lodhi-999/DBMS/tree/master/1773-percentage-of-users-attended-a-contest) |
 | [1877-find-followers-count](https://github.com/lodhi-999/DBMS/tree/master/1877-find-followers-count) |
 | [1908-recyclable-and-low-fat-products](https://github.com/lodhi-999/DBMS/tree/master/1908-recyclable-and-low-fat-products) |
