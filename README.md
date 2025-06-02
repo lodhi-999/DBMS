@@ -7,6 +7,7 @@
 | [0180-consecutive-numbers](https://github.com/lodhi-999/DBMS/tree/master/0180-consecutive-numbers) |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/lodhi-999/DBMS/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [0584-find-customer-referee](https://github.com/lodhi-999/DBMS/tree/master/0584-find-customer-referee) |
+| [0585-investments-in-2016](https://github.com/lodhi-999/DBMS/tree/master/0585-investments-in-2016) |
 | [0596-classes-more-than-5-students](https://github.com/lodhi-999/DBMS/tree/master/0596-classes-more-than-5-students) |
 | [0619-biggest-single-number](https://github.com/lodhi-999/DBMS/tree/master/0619-biggest-single-number) |
 | [0620-not-boring-movies](https://github.com/lodhi-999/DBMS/tree/master/0620-not-boring-movies) |
