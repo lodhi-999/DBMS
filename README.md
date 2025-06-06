@@ -27,6 +27,7 @@
 | [1390-average-selling-price](https://github.com/lodhi-999/DBMS/tree/master/1390-average-selling-price) |
 | [1452-restaurant-growth](https://github.com/lodhi-999/DBMS/tree/master/1452-restaurant-growth) |
 | [1773-percentage-of-users-attended-a-contest](https://github.com/lodhi-999/DBMS/tree/master/1773-percentage-of-users-attended-a-contest) |
+| [1801-average-time-of-process-per-machine](https://github.com/lodhi-999/DBMS/tree/master/1801-average-time-of-process-per-machine) |
 | [1877-find-followers-count](https://github.com/lodhi-999/DBMS/tree/master/1877-find-followers-count) |
 | [1908-recyclable-and-low-fat-products](https://github.com/lodhi-999/DBMS/tree/master/1908-recyclable-and-low-fat-products) |
 | [2057-count-salary-categories](https://github.com/lodhi-999/DBMS/tree/master/2057-count-salary-categories) |
